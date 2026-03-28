@@ -1,0 +1,15 @@
+=== RINGKASAN NUMPY ===
+Rata-rata: 73.7
+Median: 71.0
+Std Dev: 11.713667231059622
+Min: 57
+Max: 92
+
+=== RINGKASAN DATAFRAME ===
+Jumlah data: 5
+LULUS: 3
+TIDAK LULUS: 2
+
+=== GRADEBOOK ===
+Average: 75.8
+Pass rate: 60.0%
